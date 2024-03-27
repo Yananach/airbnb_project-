@@ -39,7 +39,7 @@ The questions we would like to answer:
 
 ### Results/Findings
 
--“Contact Me” performs poorly
+-“Contact Me” performs poorly for this channel the abandonment rate is very high.
 -the more host/guest interaction it has a positive effect on both parties, hosts are more likely to accept bookings and guests are more likely to book.
 -there is an effect on the number of characters for intelligence, the chances of response and acceptance by the host.
 -high abandonment rates when the neighborhood is unknown.
@@ -47,11 +47,12 @@ The questions we would like to answer:
 
 ### Recommendations
 
--Remove the “Contact Me” flow altogether in favor of “Book It” and “Instant Book”.
+-Remove the “Contact Me” flow altogether in favor of “Book It” and “Instant Book” (where available).
 -Require hosts to respond to initial message and encourage active communication between guests and hosts.
 -Recommend that guests leave a certain number of characters.
 -Change the listing neighborhood to mandatory.
 -encourage customers to write comments. 
+-Let customers rate the properties and create a general rating.
 
 
 
